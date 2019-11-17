@@ -8,5 +8,22 @@ ul li {
 }
 
 .followme {
-    float: left;
+    text-align: center;
+}
+
+img {
+    margin: 20px;
+}
+
+h1 {
+    padding: 20px;
+}
+
+h4 {
+    padding: 10px;
+    margin: 10px;
+}
+
+.footer_area {
+    margin-top: 20px;
 }
