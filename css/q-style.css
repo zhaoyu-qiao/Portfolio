@@ -1,0 +1,12 @@
+.list {
+    list-style-type: none;
+}
+
+ul li {
+    display: inline;
+
+}
+
+.followme {
+    float: left;
+}
